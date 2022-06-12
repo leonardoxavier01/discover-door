@@ -33,7 +33,7 @@ npm start
 ## ⚙️ Início do jogo
 
 Na página inicial você escolhe quantas portas deseja ter e qual dessas portas ficará escondido o presente.
-Para isso apenas selecione esse valores através de alguns botões que irão incrementar e decrementar os mesmos.
+Para isso apenas selecione esse valores através de alguns botões que irão incrementar ou decrementar os mesmos.
 
 ## ⚙️ Obejtivo do jogo
 
