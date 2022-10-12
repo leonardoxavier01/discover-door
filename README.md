@@ -35,7 +35,7 @@ npm start
 Na página inicial você escolhe quantas portas deseja ter e qual dessas portas ficará escondido o presente.
 Para isso apenas selecione esse valores através de alguns botões que irão incrementar ou decrementar os mesmos.
 
-## ⚙️ Obejtivo do jogo
+## ⚙️ Objetivo do jogo
 
 O objetivo do jogo é fazer com que o jogador tente adivinhar em qual das portas ele acredita que esteja o presente.
 
